@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "220489294213",
+    "firebase_url": "https://fortressfundnav.firebaseio.com",
+    "project_id": "fortressfundnav",
+    "storage_bucket": "fortressfundnav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220489294213:android:0c4d36aa4457070ad324ec",
+        "android_client_info": {
+          "package_name": "com.example.flutterfortressnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaljZgYLJseYEb40awDQshyHqzA6VXZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220489294213:android:6b1d23c36d3e344dd324ec",
+        "android_client_info": {
+          "package_name": "com.example.flutterstanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaljZgYLJseYEb40awDQshyHqzA6VXZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220489294213:android:c883c29023391f7dd324ec",
+        "android_client_info": {
+          "package_name": "com.example.flutterstockfortress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaljZgYLJseYEb40awDQshyHqzA6VXZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220489294213-frsdqgusofml0c9mksi43krqdt5tquc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
