@@ -21,56 +21,52 @@ class _TestViewState extends State<TestView> {
   static List<charts.Series<Sales, int>> _createRandomData() {
     final desktopSalesData = [
       Sales(
-        0,
-        12,
-      ),
-      Sales(
         1,
-        14,
+        12,
       ),
       Sales(
         2,
-        19,
+        14,
       ),
       Sales(
         3,
-        25,
+        19,
       ),
       Sales(
         4,
-        45,
+        25,
       ),
       Sales(
         5,
-        21,
+        45,
       ),
       Sales(
         6,
-        22,
+        21,
       ),
       Sales(
         7,
-        24,
+        22,
       ),
       Sales(
         8,
-        18,
+        24,
       ),
       Sales(
         9,
-        29,
+        18,
       ),
       Sales(
         10,
-        34,
+        29,
       ),
       Sales(
         11,
-        36,
+        34,
       ),
       Sales(
         12,
-        42,
+        36,
       ),
     ];
 
@@ -107,6 +103,7 @@ class _TestViewState extends State<TestView> {
     return charts.LineChart(
       seriesList,
       animate: true,
+      animationDuration: Duration.zero,
       domainAxis: new charts.NumericAxisSpec(
         renderSpec: new charts.SmallTickRendererSpec(
           // Tick and Label styling here.
